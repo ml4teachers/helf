@@ -1,0 +1,41 @@
+PODS:
+  - AparajitaCapacitorSecureStorage (6.0.1):
+    - Capacitor
+    - KeychainSwift (~> 21.0)
+  - Capacitor (7.2.0):
+    - CapacitorCordova
+  - CapacitorApp (7.0.1):
+    - Capacitor
+  - CapacitorCordova (7.2.0)
+  - KeychainSwift (21.0.0)
+
+DEPENDENCIES:
+  - "AparajitaCapacitorSecureStorage (from `../../node_modules/.pnpm/@aparajita+capacitor-secure-storage@6.0.1/node_modules/@aparajita/capacitor-secure-storage`)"
+  - "Capacitor (from `../../node_modules/.pnpm/@capacitor+ios@7.2.0_@capacitor+core@7.2.0/node_modules/@capacitor/ios`)"
+  - "CapacitorApp (from `../../node_modules/.pnpm/@capacitor+app@7.0.1_@capacitor+core@7.2.0/node_modules/@capacitor/app`)"
+  - "CapacitorCordova (from `../../node_modules/.pnpm/@capacitor+ios@7.2.0_@capacitor+core@7.2.0/node_modules/@capacitor/ios`)"
+
+SPEC REPOS:
+  trunk:
+    - KeychainSwift
+
+EXTERNAL SOURCES:
+  AparajitaCapacitorSecureStorage:
+    :path: "../../node_modules/.pnpm/@aparajita+capacitor-secure-storage@6.0.1/node_modules/@aparajita/capacitor-secure-storage"
+  Capacitor:
+    :path: "../../node_modules/.pnpm/@capacitor+ios@7.2.0_@capacitor+core@7.2.0/node_modules/@capacitor/ios"
+  CapacitorApp:
+    :path: "../../node_modules/.pnpm/@capacitor+app@7.0.1_@capacitor+core@7.2.0/node_modules/@capacitor/app"
+  CapacitorCordova:
+    :path: "../../node_modules/.pnpm/@capacitor+ios@7.2.0_@capacitor+core@7.2.0/node_modules/@capacitor/ios"
+
+SPEC CHECKSUMS:
+  AparajitaCapacitorSecureStorage: 265982fd6a2686f9a0820f55c039623b2c4a34c1
+  Capacitor: 106e7a4205f4618d582b886a975657c61179138d
+  CapacitorApp: d63334c052278caf5d81585d80b21905c6f93f39
+  CapacitorCordova: 5967b9ba03915ef1d585469d6e31f31dc49be96f
+  KeychainSwift: 4a71a45c802fd9e73906457c2dcbdbdc06c9419d
+
+PODFILE CHECKSUM: 6be3900e6250aa3cef7b02ae0d25a0b99319cbb9
+
+COCOAPODS: 1.16.2
